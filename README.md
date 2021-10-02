@@ -36,6 +36,5 @@ Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer.
 ![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=MikeOwino&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
-Credits: [MikeOwino](https://github.com/MikeOwino)
 
-Last Edited on: 27/12/2020
+Ultima edição: 02/10/2021
