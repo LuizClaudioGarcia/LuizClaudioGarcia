@@ -1,6 +1,7 @@
-### <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" width="50" height="50" /> Olá, Eu sou [Luiz!](https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br) 👋
+### Olá, Eu sou [Luiz!](https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br) 👋
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
 
+https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp
 
 <a href="https://codesandbox.io/u/mikeeowino">
   <img align="left" alt="Mike Owino | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
