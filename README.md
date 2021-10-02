@@ -13,7 +13,7 @@
   <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer.
+Olá, me chama Luiz, sou um desenvolvedor back-end iniciante.
 
 - 🔭 I’m currently working on my project [GadgetsMag](https://github.com/gadgetsmag.github.io) <img align="right" alt="coding from home" src= "https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height = 200 width = 300/>
 - 🌱 I’m currently learning Javascript, CSS,  Python & Jekyll
