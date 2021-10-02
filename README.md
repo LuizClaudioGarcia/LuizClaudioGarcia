@@ -15,10 +15,9 @@
 
 Olá, me chama Luiz, sou um desenvolvedor back-end iniciante.
 
-- 🔭 I’m currently working on my project [GadgetsMag](https://github.com/gadgetsmag.github.io) <img align="right" alt="coding from home" src= "https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" height = 200 width = 300/>
-- 🌱 I’m currently learning Javascript, CSS,  Python & Jekyll
-- 👯 I’m looking to collaborate on [GadgetsMag](https://github.com/gadgetsmag.github.io)
-- 💬 Ask me about anything [here](https://github.com/MikeOwino/MikeOwino/issues)
+- 🔭 Atualmente programo na plataforma FiveM, utilizando .lua [GadgetsMag](https://discord.gg/VHFBUHwD) <img align="right" alt="coding from home" src= "https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" height = 200 width = 300/>
+- 🌱 Estou aprendendo NodeJS, para o desenvolvimento de API's
+- 💬 Contato: [GadgetsMag] (https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br)
 <br>
 <br>
 <br>
