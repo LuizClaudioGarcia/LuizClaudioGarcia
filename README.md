@@ -1,5 +1,4 @@
 ### Olá, Eu sou [Luiz!](https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br) 👋
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
 
 
 
@@ -33,4 +32,5 @@ Olá, me chama Luiz, sou um desenvolvedor back-end iniciante.
 
 -----
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
 Ultima edição: 02/10/2021
