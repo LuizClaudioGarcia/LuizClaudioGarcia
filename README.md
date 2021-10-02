@@ -30,7 +30,7 @@ Olá, me chama Luiz, sou um desenvolvedor back-end iniciante.
 <br>
 <br>
 
+Ultima edição: 02/10/2021
 -----
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
-Ultima edição: 02/10/2021
