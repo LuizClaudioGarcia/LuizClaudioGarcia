@@ -15,7 +15,7 @@
 Olá, me chama Luiz, sou um desenvolvedor back-end iniciante.
 
 - 🔭 Atualmente desenvolvo na plataforma FiveM [Loja](https://discord.gg/VHFBUHwD) <img align="right" alt="coding from home" src= "https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" height = 200 width = 300/>
-- 🌱 Estou aprendendo NodeJS, para o desenvolvimento de API's
+- 👨‍💻 Estou aprendendo NodeJS, para o desenvolvimento de API's
 - 💬 Contato: [GadgetsMag] (https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br)
 <br>
 <br>
