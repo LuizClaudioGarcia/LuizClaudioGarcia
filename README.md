@@ -1,14 +1,6 @@
 ### Olá, Eu sou [Luiz!](https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br) 👋
 
-<a href="https://codesandbox.io/u/mikeeowino">
-  <img align="left" alt="Mike Owino | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/mikeeowino">
-  <img align="left" alt="Mike Owino | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+
 
 
 <br><br>
