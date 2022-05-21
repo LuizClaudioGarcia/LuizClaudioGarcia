@@ -6,8 +6,9 @@
 <br><br>
 Um pouco sobre mim:
 
-- 🔭 Atualmente desenvolvo na plataforma FiveM [Loja](https://discord.gg/VHFBUHwD)
-- 👨‍💻 Estou aprendendo NodeJS, para o desenvolvimento de API's
+- 🔭 Fui desenvolvedor para a plataforma FiveM, onde trabalhei na campanha Drop Your Jeans da John John
+- 💻 Estudo ciências da computação
+- 👨‍💻 Estou aprendendo NodeJS para aprimorar meus conhecimentos em back-end
 <br><br><br>
 
 
