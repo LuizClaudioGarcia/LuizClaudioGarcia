@@ -8,7 +8,7 @@ Um pouco sobre mim:
 
 - 🔭 Fui desenvolvedor para a plataforma FiveM, onde trabalhei na campanha Drop Your Jeans da John John
 - 💻 Estudo ciências da computação
-- 👨‍💻 Estou aprendendo NodeJS para aprimorar meus conhecimentos em back-end
+- 👨‍💻 Estou aprendendo NodeJS e NestJS para aprimorar meus conhecimentos em back-end
 <br><br><br>
 
 
