@@ -7,8 +7,9 @@
 Um pouco sobre mim:
 
 - 💻 Barcharel em Ciências da Computação
-- 💻 Desenvolvedor Back-End | NodeJS | TypeScript | MySQL | PostgreSQL
-- 🔭 Fui desenvolvedor para a plataforma FiveM, onde trabalhei na campanha Drop Your Jeans da marca de roupas John John
+- 💻 Desenvolvedor Back-End | NodeJS | Lua | MySQL 
+- 🔭 Fui desenvolvedor na plataforma FiveM (CFX), onde trabalhei na campanha Drop Your Jeans da marca de roupas John John
+- 💼 Atualmente atuo como desenvolvedor back-end numa empresa de portaria virtual, utilizando ferramentas de desenvolvimento e também auxilio no gerenciamento da infraestrutura de rede interna.
 
 <br><br><br>
 
