@@ -1,10 +1,6 @@
 ### Olá, Eu sou [Luiz!](https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br) 👋
 
-
-
-
 <br><br>
-Um pouco sobre mim:
 
 🎓 Bacharel em Ciências da Computação;<br><br>
 💻 Desenvolvedor Back-End com experiência em Node.js, Lua e MySQL;<br><br>
