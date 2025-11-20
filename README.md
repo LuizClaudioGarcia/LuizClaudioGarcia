@@ -22,7 +22,4 @@
 
 - 💬 Contato: [LinkedIn](https://www.linkedin.com/in/luiz-claudio-junior-4643b7180/?originalSubdomain=br) <img align="right" alt="coding from home" src= "https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" height = 200 width = 300/>
 <br>
-Ultima edição: 02/10/2021
-<br><br>
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
+Ultima edição: 20/11/2025
