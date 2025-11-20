@@ -2,11 +2,9 @@
 
 <br><br>
 
-🎓 Bacharel em Ciência da Computação
-💻 Desenvolvedor Back-End com experiência em Node.js, Lua, Python, MySQL, PHP, Docker, entre outras tecnologias.
-
-🔭 Atuei por 7 anos na plataforma FiveM (CFX), com destaque para minha contribuição na campanha Drop Your Jeans da marca John John, desenvolvendo soluções personalizadas dentro do ecossistema GTA RP.
-
+🎓 Bacharel em Ciência da Computação<br>
+💻 Desenvolvedor Back-End com experiência em Node.js, Lua, Python, MySQL, PHP, Docker, entre outras tecnologias.<br><br>
+🔭 Atuei por 7 anos na plataforma FiveM (CFX), com destaque para minha contribuição na campanha Drop Your Jeans da marca John John, desenvolvendo soluções personalizadas dentro do ecossistema GTA RP.<br><br>
 💼 Atualmente trabalho como desenvolvedor full-stack e growth manager em um escritório de advocacia, onde também acompanho o gerenciamento interno de T.I e processos voltados à captação de clientes.
 
 <br><br>
