@@ -3,9 +3,9 @@
 <br><br>
 
 🎓 Bacharel em Ciências da Computação;<br><br>
-💻 Desenvolvedor Back-End com experiência em Node.js, Lua e MySQL;<br><br>
-🔭 Atuei como desenvolvedor na plataforma FiveM (CFX), contribuindo para a campanha Drop Your Jeans da marca John John;<br><br>
-💼 Atualmente trabalho como desenvolvedor back-end em uma empresa de portaria virtual, onde também auxilio no gerenciamento da infraestrutura de rede interna;
+💻 Desenvolvedor Back-End com experiência em Node.js, Lua, Python, MySQL, PHP, Docker... entre outras ferramentas;<br><br>
+🔭 Atuei como desenvolvedor na plataforma FiveM (CFX) durante 7 anos. Dentre esse período contribui para a campanha Drop Your Jeans da marca de roupas John John;<br><br>
+💼 Atualmente trabalho como desenvolvedor back-end e growth manager em um escritório de advocacia, onde também auxilio no gerenciamento de t.i interno e processos de captação de clientes;
 
 <br><br>
 
